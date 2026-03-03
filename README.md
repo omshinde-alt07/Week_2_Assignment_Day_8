@@ -56,4 +56,3 @@ Effective Tax Rate: 4.25%
 
 ---
 
-This project is for learning and practice purposes only.
