@@ -1,6 +1,6 @@
 # Week_2_Assignment_Day_8
 
-Here is a **simple and clean README.md** file:
+
 
 ---
 
